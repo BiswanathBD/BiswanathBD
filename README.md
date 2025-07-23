@@ -1,6 +1,4 @@
 ## Hi there 👋 Biswanath Sarker
-i.m a frontend developer
-
 -🌱 I’m currently learning: Web Development, JavaScript & AI Tools  
 -💻 All of my projects are available at: [My Repository](https://github.com/BiswanathBD?tab=repositories)  
 -📫 How to reach me: biswanath.sarker.bd@gmail.com  
