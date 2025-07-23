@@ -5,7 +5,7 @@
 -🚀 I love working with: HTML | CSS | Tailwind | JavaScript | React | Git
 
 <a href="[https://biswanath.dev](https://github.com/BiswanathBD?tab=repositories)" target="_blank">
-<img src="Me.png" alt="My Photo" />
+<img src="Portfolio.png" alt="My Photo" />
 </a>
 <!--
 **BiswanathBD/BiswanathBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
