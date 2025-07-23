@@ -1,5 +1,8 @@
 ## Hi there 👋 Biswanath Sarker
-- 🌱 I’m currently learning... Web development
+-🌱 I’m currently learning: Web Development, JavaScript & AI Tools  
+-💻 All of my projects are available at: [My Repository](https://github.com/BiswanathBD?tab=repositories)  
+-📫 How to reach me: biswanath.sarker.bd@gmail.com  
+-🚀 I love working with: HTML | CSS | JavaScript | React | Tailwind | Git
 
 <!--
 **BiswanathBD/BiswanathBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
