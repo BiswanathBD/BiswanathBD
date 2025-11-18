@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="My-Portfolio.png" alt="Biswanath Sarker" width="400"/>
+  <img src="My-Portfolio.png" alt="Biswanath Sarker" />
 </p>
 
 
