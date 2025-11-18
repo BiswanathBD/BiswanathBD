@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://www.svgrepo.com/show/354119/framer.svg" width="28"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28"/>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pixeo-FF6F61?style=for-the-badge&logo=pixeo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pixso-FF6F61?style=for-the-badge&logo=pixso&logoColor=white" height="28"/>
     </td>
   </tr>
 </table>
