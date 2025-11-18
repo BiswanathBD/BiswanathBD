@@ -8,7 +8,7 @@
 <img src="My-Portfolio.png" alt="My Photo" />
 </a>
 
-<table width="100%" cellspacing="5" cellpadding="5">
+<table width="100%" border="0">
   <tr>
     <td><strong>Frontend :</strong></td>
     <td>
@@ -49,5 +49,9 @@
     </td>
   </tr>
 </table>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=BiswanathBD&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswanathBD&theme=radical" alt="GitHub Streak Stats" />
+
 
 
