@@ -1,4 +1,6 @@
 
+<h1> Hi, I'm Biswanath Sarker</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=18F7ED&width=435&lines=Frontend+Developer;MARN+Stack+Developer" alt="Typing SVG" />
 <p align="center">
   <img src="My-Portfolio.png" alt="Biswanath Sarker" />
 </p>
