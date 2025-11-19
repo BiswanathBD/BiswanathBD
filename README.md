@@ -1,6 +1,10 @@
 
 <h1> Hi, I'm Biswanath Sarker</h1>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=18F7ED&width=435&lines=Frontend+Developer;MARN+Stack+Developer" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=300&color=18F7ED&width=500&lines=I'm+Skilled+in+HTML;I'm+Skilled+in+CSS;I'm+Skilled+in+JavaScript;I'm+Skilled+in+React;I'm+Skilled+in+Node.js;I'm+Skilled+in+MongoDB;I'm+Skilled+in+Tailwind;I'm+Skilled+in+Express" 
+  alt="Skills Typing Animation"
+/>
+
 <p align="center">
   <img src="My-Portfolio.png" alt="Biswanath Sarker" />
 </p>
