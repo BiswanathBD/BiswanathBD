@@ -12,9 +12,7 @@
 
 
 <h2>👨🏻‍💻 About Me</h2>
-- I love building modern and responsive web applications.  
-- Skilled in **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Tailwind, DaisyUI, Framer Motion, Firebase**.  
-- Always learning new technologies and improving my coding skills.
+I’m a passionate MERN Stack Web Developer who loves turning ideas into real and functional products. I work with JavaScript, React, Tailwind CSS, HTML, CSS, Node.js, Express, MongoDB, Firebase, and useful React npm packages. I enjoy building clean, responsive, and user-friendly web applications. I am always eager to learn new technologies and improve my skills every day. I believe in growing step by step and creating better projects with consistency and hard work.
 
 
 <h2>💡 Tech Stack</h2>
