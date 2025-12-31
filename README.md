@@ -57,6 +57,12 @@ I’m a passionate MERN Stack Web Developer who loves turning ideas into real an
       <img src="https://img.shields.io/badge/Pixso-FF6F61?style=for-the-badge&logo=pixso&logoColor=white" height="28"/>
     </td>
   </tr>
+  <tr>
+    <td><strong>Exploring :</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 
@@ -81,3 +87,4 @@ I’m a passionate MERN Stack Web Developer who loves turning ideas into real an
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
+
