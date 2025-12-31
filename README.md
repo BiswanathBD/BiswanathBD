@@ -58,7 +58,7 @@ I’m a passionate MERN Stack Web Developer who loves turning ideas into real an
     </td>
   </tr>
   <tr>
-    <td><strong>Exploring :</strong></td>
+    <td><strong>Learning :</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     </td>
